@@ -3,6 +3,7 @@ from api_config import *
 from weather_data import get_weather
 from pprint import pprint
 
+
 def get_updates():
     """
     gets text and chat_id from last message
